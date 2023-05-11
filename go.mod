@@ -1,4 +1,4 @@
-module test
+module rope-simulation
 
 go 1.18
 

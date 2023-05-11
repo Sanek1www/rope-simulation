@@ -3,7 +3,7 @@ package main
 import (
 	"github.com/hajimehoshi/ebiten/v2"
 	"log"
-	"test/rope"
+	"rope-simulation/rope"
 )
 
 func main() {
